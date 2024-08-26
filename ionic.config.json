@@ -1,0 +1,7 @@
+{
+  "name": "bvApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
